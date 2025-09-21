@@ -1,0 +1,3 @@
+Download the character .fbx files from this google drive link and paste these file in this characters folder.
+
+https://drive.google.com/drive/folders/1oS5mO3mSGxOUaReCKEYe-NmiSKWNocVv?usp=sharing
