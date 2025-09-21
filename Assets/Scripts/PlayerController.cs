@@ -199,7 +199,7 @@ public class PlayerController : MonoBehaviour
 
         if (health <= 0)
         {
-            Debug.Log("Player died.");
+            Die();
         }
     }
 
