@@ -19,6 +19,10 @@ A game built with Unity Engine that references the Contra game and modification 
 - Press Play in the editor or build the game from File > Build Settings.
 - If you want to download the character .fbx files, open the .txt file in the Assets/Character folder and download it from my Google Drive Link in the .txt file.
 
+# 🎮 Play
+- Download and extract the file based on your OS from this link (https://sittyanhtun.itch.io/contra-tps).
+- You don't need to install anything, just extract and double-click on the app file.
+
 # 🎮 Usage
 Open the game from the built executable or run it inside Unity Editor.
 
