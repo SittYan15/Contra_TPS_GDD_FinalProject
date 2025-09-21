@@ -3,6 +3,9 @@
 # Contra_TPS_GDD_FinalProject
 A game built with Unity Engine that references the Contra game and modification with my ideas for a final Project of Game Design and Development course at Assumption University.
 
+# 👤Member
+- Sitt Yan Htun (6722114)
+
 # ✨ Features
 - 🎯 Player movement and shooting
 - 👾 Enemy AI with health system
@@ -57,3 +60,7 @@ Open the game from the built executable or run it inside Unity Editor.
 - Characters/Animation: Mixamo (https://www.mixamo.com/#/)
 - Art/Assets: Unity Asset Store
 - Music/SFX: pixabay (https://pixabay.com/sound-effects/)
+
+## 📜 License  
+This project is for educational purposes only.  
+You may view and use the code for learning, but redistribution or commercial use is not allowed.  
