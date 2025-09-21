@@ -39,7 +39,7 @@ Open the game from the built executable or run it inside Unity Editor.
 - Language: C#
 - IDE: Visual Studio
 
-#🐞 Known Issues
+# 🐞 Known Issues
 - Sometimes, the bullet projectile passes through the enemy.
 - The mutant footstep sounds didn't stop sometimes.
 - The bugs in player movement while aiming.
@@ -57,6 +57,9 @@ Open the game from the built executable or run it inside Unity Editor.
 <img width="1920" height="1080" alt="unknown_2025 09 22-00 51_1" src="https://github.com/user-attachments/assets/de5af66a-5e53-4855-a7d5-aa1547cd6d03" />
 <img width="1920" height="1080" alt="unknown_2025 09 22-00 51_2" src="https://github.com/user-attachments/assets/0eae6956-1b4e-446d-9671-88cc4eca6da7" />
 <img width="1920" height="1080" alt="unknown_2025 09 22-00 52" src="https://github.com/user-attachments/assets/5edb0ae3-951c-41d5-afdb-6f1609abc551" />
+
+# 🎬 Game Play Youtube Video Link
+- https://www.youtube.com/watch?v=ZH8B5EwJmRQ
 
 # 🙌 Credits
 - Game Design: Sitt Yan Htun
